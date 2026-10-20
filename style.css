@@ -5,4 +5,5 @@
 @media(prefers-reduced-motion:reduce){.hero-copy,.hero-art,.project-card,.gallery-image,.about-section,.contact-inner{animation:none!important}.gallery-image img{transition:none!important}}
 .gallery-image,.about-section,.contact-inner{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s cubic-bezier(.2,.7,.2,1)}.gallery-image.is-visible,.about-section.is-visible,.contact-inner.is-visible{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.gallery-image,.about-section,.contact-inner{opacity:1;transform:none;transition:none!important}}
+.art-label{z-index:3}
 
