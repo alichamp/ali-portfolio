@@ -4,17 +4,15 @@
 
 ## Проекты
 
-- `projects/steppe-coffee/` — концепция магазина specialty-кофе; интерактивная корзина-счётчик.
-- `projects/move-studio/` — wellness-лендинг; фильтр тренировок.
-- `projects/soma-interiors/` — портфолио студии интерьеров; фильтр кейсов.
+- [Steppe Coffee](https://alichamp.github.io/ali-portfolio/projects/steppe-coffee/) — концепция магазина specialty-кофе; интерактивная корзина-счётчик.
+- [Move Studio](https://alichamp.github.io/ali-portfolio/projects/move-studio/) — wellness-лендинг; фильтр тренировок.
+- [SOMA Interiors](https://alichamp.github.io/ali-portfolio/projects/soma-interiors/) — портфолио студии интерьеров; фильтр кейсов.
 
 Все названия брендов, описания работ и примеры проектов внутри демо — концептуальные и не заявляют о реальных клиентах или опыте.
 
-## Локальный просмотр
+## Сайт-портфолио
 
-Открой `index.html` в браузере. Все страницы работают без сборки.
+[Открыть портфолио](https://alichamp.github.io/ali-portfolio/). Все страницы работают без сборки.
 
-## GitHub Pages
-
-После загрузки содержимого в отдельный публичный репозиторий включи **Settings → Pages → Build and deployment → Deploy from a branch**, выбери `main` и `/ (root)`. Портфолио будет в корне, демо — в папках `projects/`.
+Исходный код: [github.com/alichamp/ali-portfolio](https://github.com/alichamp/ali-portfolio).
 
