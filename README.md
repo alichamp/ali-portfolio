@@ -8,5 +8,6 @@
 - [Move Studio](https://alichamp.github.io/ali-portfolio/projects/move-studio/) — wellness-лендинг с фильтром тренировок.
 - [SOMA Interiors](https://alichamp.github.io/ali-portfolio/projects/soma-interiors/) — портфолио интерьерной студии с фильтром кейсов.
 
-Сайт работает как статические HTML/CSS/JavaScript страницы без сборщика.
+Сайт работает как статические HTML/CSS/JavaScript страницы без сборщика. Иллюстрации загружаются с Unsplash. Для запросов на разработку предусмотрена ссылка на почту: alikrmklv@gmail.com.
+
 
